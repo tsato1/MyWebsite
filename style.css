@@ -42,7 +42,7 @@ ol, ul {list-style:none;}
 /* ------------- menu ------------- */
 #menu {
 	float: right;
-	width: 350px;
+	width: 450px;
 	height: 100px;
 	margin-top: 40px;
 }
@@ -103,10 +103,6 @@ ol, ul {list-style:none;}
 	border-top-left-radius: 10px;
 }
 
-#contents img {
-    width: 250px;
-    height: 250px;
-}
 
 /* ------------- main ------------- */
 #main {
@@ -196,6 +192,8 @@ ol, ul {list-style:none;}
 }
 
 .figure img {
+    width: 250px;
+    height: 250px;
     -webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
