@@ -17,6 +17,11 @@ body {
 
 ol, ul {list-style:none;}
 
+a:link {
+    text-decoration: none;
+    font: 75%2 Meiryo;
+}
+
 /* ------------- container ------------- */
 #container {
 	width: 79%;
@@ -111,6 +116,10 @@ ol, ul {list-style:none;}
 	margin-left: auto;
 }
 
+#main a:hover {
+    color: darkblue;
+}
+
 #main h1 {
 	text-align: center;
 	overflow: hidden;
@@ -203,6 +212,11 @@ ol, ul {list-style:none;}
 	display: block;
 	margin: 0 auto 1em;
 }
+
+.figure img:hover {
+    color: darkblue;
+}
+
 /* ------------- footer ------------- */
 #footer {
 	clear: both;
