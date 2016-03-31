@@ -9,7 +9,7 @@ Portfolio website that showcases my works
 
 * [ ] App has working links to specific page for detail
 * [ ] App has a fancy effect that changes the color of material cursor is hovoring on
-* [ ] App layout doesn't get distorted because of screen size or any other external features
+* [ ] App layout does not get distorted because of screen size or any other external features
 
 ## License
 
